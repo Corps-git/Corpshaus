@@ -163,7 +163,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"AudioKurf\u00fcrst.mp3"
+                 "value":"AudioKurfuerst.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
