@@ -1,0 +1,14 @@
+{ "columns":16,
+ "image":"house_inside.png",
+ "imageheight":448,
+ "imagewidth":512,
+ "margin":0,
+ "name":"new haus",
+ "spacing":0,
+ "tilecount":224,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
