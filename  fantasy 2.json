@@ -1,0 +1,14 @@
+{ "columns":8,
+ "image":"Fantasy und M\u00f6bel.png",
+ "imageheight":7000,
+ "imagewidth":256,
+ "margin":0,
+ "name":"fantasy",
+ "spacing":0,
+ "tilecount":1744,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
